@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'test'
+project = 'DOIT Documents'
 copyright = '2018, doit'
 author = 'doit'
 
