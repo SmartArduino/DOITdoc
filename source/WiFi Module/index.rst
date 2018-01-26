@@ -1,17 +1,17 @@
 .. _database
 
-基础篇
+WiFi Modules
 ============================
 
-这一部分介绍数据科学的基础内容;\
+In this part, we will provide the user manuals for the ESP WiFi modules;\
 
 .. toctree::
     :maxdepth: 1
     :numbered: 2    
 
-    01_pandas.ipynb
-    02_stats
-    03_scipy
-    04_statsmodel
-    05_sklearn
+    01_ESP-F
+    02_ESP-M1
+    03_ESP-M2
+    04_ESP-M3
+    05_ESP-M4
 
