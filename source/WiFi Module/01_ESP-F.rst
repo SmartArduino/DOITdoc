@@ -70,3 +70,27 @@ Paramters for ESP-F
 +          +-------------------------+--------------------------------------+ 
 |          |   User configuration    |AT+command/cloud sever/Android/iOS APP|
 +----------+-------------------------+--------------------------------------+ 
+
+PINs Definition
+
+PINs definition of ESP-F can be shown in the following.
+
+ .. figure:: ../_static/pinofESPF.png
+    :align: center
+    :alt: Pins definition for ESP-F Module
+    :figclass: align-center
+
+    Pins definition for ESP-F Module
+    
+    Selection of Working Mode
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    
+    Working mode and definition of pins:
+   """""""""
+   
++----------+-------------------------+--------------------------------------+  
+|  Types   |            items        |             Parameters               |   
++==========+=========================+======================================+   
+|          |     Frequency Scope     |                         2            |
++----------+-------------------------+--------------------------------------+  
+    
