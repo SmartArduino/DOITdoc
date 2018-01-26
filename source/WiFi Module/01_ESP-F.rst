@@ -201,7 +201,7 @@ Power Consumption
 +-------------------------------------+-------------+-------------+-----------+-----------+
 |Tx802.11g, OFDM 54 Mbps, POUT =+15dBm|    -        |   140       |    -      |   mA      |                                      +-------------------------------------+-------------+-------------+-----------+-----------+
 
-Note
+.. Note::
 * Modem-Sleep mode can be used for the case that CPU is always working, e.g., PWM or I2S etc. If WiFi is connected and no data is to transmitted, in this case, WiFi modem can be closed to save power energy. For example, if at DTIM3 status,  keep asleep at 300ms, Then, the module can wake up to receive the Beacon package within 3ms and the current being 15mA.
 
 * Light-Sleep mode can used for the case that CUP can stop the application temporally, e.g.,  Wi-Fi Switch .  If  Wi-Fi is connected and there is no data packet to transmitted, by the 802.11 standard (e.g., U-APSD), module can close Wi-Fi Modem and stop CPU to save power. For example, at DTIM3,  keep up sleeping at  300ms, it would receive the Beacon package from AP after each 3ms, then the whole average current is about 0.9mA.
