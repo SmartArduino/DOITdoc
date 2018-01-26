@@ -16,6 +16,9 @@ Python 和数据科学
     :maxdepth: 2
     :glob:
     
-    beginning/index
-    base/index
-    tools/index
+    WiFi Module/index
+    Development Boards/index
+    Applications & Solutions/index
+    WiFi Prober/index
+    Robotics/index
+    Useful Links & Tools/index
