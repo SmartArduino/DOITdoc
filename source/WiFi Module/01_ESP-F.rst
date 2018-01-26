@@ -145,3 +145,19 @@ Function Definition of Module Pins
 | 22 | TXD |I/O |GPIO1; used to build in Flash as UART Tx                             |
 +----+-----+----+---------------------------------------------------------------------+ 
 
+Shape and Size
+---------------
+
+Shape and size for this module can be shown as follows. Its size is 16mm*24mm*3mm, and the Flash is 4M bytes (32Mbits), together with the following picture.
+
+ .. figure:: ../_static/ESPF.png
+    :align: center
+    :alt: ESP-F Module
+    :figclass: align-center
+
+    ESP-F Module
+    
+    
+    
+    
+
