@@ -1,9 +1,9 @@
 .. _database
 
-基础篇
+WiFi Modules
 ============================
 
-这一部分介绍数据科学的基础内容;\
+In this part, we will provide the user manuals for the ESP WiFi modules;\
 
 .. toctree::
     :maxdepth: 1

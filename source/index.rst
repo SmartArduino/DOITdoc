@@ -3,19 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Python 和数据科学
+Documents for DOIT's Products
 ====================================
-.. note::
+.. Note::
 
-    这里是 Scott 在学习数据科学所写的学习笔记，欢迎交流与指教。
+    Our company (Shenzhen Doctors of Intelligence & Technology Co. Ltd, SZDOIT) was build up 2014. After several years, our HK company is also formed, and named as HK Doctors of Intelligence & Technology Co. Ltd. Now, SZDOIT already has 18 members with about 600 m^2, and is speciallized in:
+-  Manufacturer of ESP8266/8285 WiFi module
+-  WiFi module
+-  OpenSource Hardwares
+-  Robotics
+-  Provider Solutions for IoT
+-  and others
 
-目录:
+Index:
 ^^^^^
 
 .. toctree::
     :maxdepth: 2
     :glob:
     
-    beginning/index
-    base/index
-    tools/index
+    WiFi Module/index
+    Development Boards/index
+    Applications & Solutions/index
+    WiFi Prober/index
+    Robotics/index
+    Useful Links & Tools/index
