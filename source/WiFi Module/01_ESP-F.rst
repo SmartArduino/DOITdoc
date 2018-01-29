@@ -168,6 +168,7 @@ Size of ESP-F module
 Electronical Characteristics
 ---------------------------
 
+Please refers to the following table.
 
 Electronical Property
 """""""""""
@@ -194,6 +195,7 @@ Electronical Property
 Power Consumption
 -----------------
 
+Please refer to the following table.
 
 Power Consumption
 """""""
