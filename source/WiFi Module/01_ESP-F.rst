@@ -220,7 +220,7 @@ The data in the following Table is gotten when voltage is 3.3V and1.1V in the in
 Wi-Fi RF Characteristics
 """"""""""""""""""""""""
 +----------------------------+-------------+-------------+-----------+-----------+
-|         Parameters         |     Min     |  Classical  |    Max    |   Unite   |   +=============================+=============+=============+===========+==========+
+|         Parameters         |     Min     |  Classical  |    Max    |   Unite   |   +============================+=============+=============+===========+===========+
 |Input frequencey            |   2412      |  N/A        |   2484    |   MHz     |
 +----------------------------+-------------+-------------+-----------+-----------+
 |Input impedance             |    noe      |   140       |   none    |   mA      |
