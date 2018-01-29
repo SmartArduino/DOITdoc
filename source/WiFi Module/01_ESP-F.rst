@@ -218,7 +218,7 @@ Wi-Fi RF Characteristics
 The data in the following Table is gotten when voltage is 3.3V and1.1V in the indoor temperature environment. 
 
 Wi-Fi RF Characteristics
-^^^^^^^^^^^^^
+""""""""""""""""""""""""
 +----------------------------+-------------+-------------+-----------+-----------+
 |         Parameters         |     Min     |  Classical  |    Max    |   Unite   |                                    +============================+=============+=============+===========+===========+
 |Input frequencey            |   2412      |  N/A        |   2484    |   MHz     |
