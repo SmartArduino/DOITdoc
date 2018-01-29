@@ -269,3 +269,13 @@ Wi-Fi RF Characteristics
 +----------------------------------------------+--------+----------+-------+------+
 |HT20, MCS7                                    | N/A   |     22    | N/A   | dB   |
 +----------------------------------------------+--------+----------+-------+------+
+
+The Recommended Sold Temperature Curve
+-----------------------------------
+
+ .. figure:: ../_static/ESPFtemperaturecurve.png
+    :align: center
+    :alt: ESP-F temperature curve
+    :figclass: align-center
+
+    ESP-F temperature curve
