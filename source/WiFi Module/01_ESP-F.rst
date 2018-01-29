@@ -221,11 +221,11 @@ Power Consumption
 +--------------------------------------+--------+------------+-------+------+
 
 .. Note::
-* Modem-Sleep mode can be used for the case that CPU is always working, e.g., PWM or I2S etc. If WiFi is connected and no data is to transmitted, in this case, WiFi modem can be closed to save power energy. For example, if at DTIM3 status,  keep asleep at 300ms, Then, the module can wake up to receive the Beacon package within 3ms and the current being 15mA.
+①  Modem-Sleep mode can be used for the case that CPU is always working, e.g., PWM or I2S etc. If WiFi is connected and no data is to transmitted, in this case, WiFi modem can be closed to save power energy. For example, if at DTIM3 status,  keep asleep at 300ms, Then, the module can wake up to receive the Beacon package within 3ms and the current being 15mA.
 
-* Light-Sleep mode can used for the case that CUP can stop the application temporally, e.g.,  Wi-Fi Switch .  If  Wi-Fi is connected and there is no data packet to transmitted, by the 802.11 standard (e.g., U-APSD), module can close Wi-Fi Modem and stop CPU to save power. For example, at DTIM3,  keep up sleeping at  300ms, it would receive the Beacon package from AP after each 3ms, then the whole average current is about 0.9mA.
+② Light-Sleep mode can used for the case that CUP can stop the application temporally, e.g.,  Wi-Fi Switch .  If  Wi-Fi is connected and there is no data packet to transmitted, by the 802.11 standard (e.g., U-APSD), module can close Wi-Fi Modem and stop CPU to save power. For example, at DTIM3,  keep up sleeping at  300ms, it would receive the Beacon package from AP after each 3ms, then the whole average current is about 0.9mA.
 
-* Deep-Sleep mode is applied to the case that Wi-Fi is not necessary to connect all the time, just send a data packet after a long time  (e.g., transmit one temperate data each 100s) . it just need 0.3s-1s to connect AP after each 300s, and the whole average current is much smaller 1mA.
+③ Deep-Sleep mode is applied to the case that Wi-Fi is not necessary to connect all the time, just send a data packet after a long time  (e.g., transmit one temperate data each 100s) . it just need 0.3s-1s to connect AP after each 300s, and the whole average current is much smaller 1mA.
 
 Wi-Fi RF Characteristics
 ------------------------
