@@ -199,11 +199,11 @@ Please refer to the following table.
 
 Power Consumption
 """""""
-+-------------------------------------+-------------+-------------+-----------+-----------+
-|         Parameters                  |     Min     |  Classical  |    Max    |   Unite   |                                    +=====================================+=============+=============+===========+===========+
-|Tx802.11b, CCK 11Mbps, POUT=+17dBm   |    none     |   170       |   none    |   mA      |
-+-------------------------------------+-------------+-------------+-----------+-----------+
-|Tx802.11g, OFDM 54 Mbps, POUT =+15dBm|    noe      |   140       |   none    |   mA      |                                      +-------------------------------------+-------------+-------------+-----------+-----------+
++--------------------------------------+--------+------------+-------+------+
+|     Parameters                       |  Min   |  Classical |  Max  |Unite |
++======================================+========+============+=======+======+
+|Tx802.11b, CCK 11Mbps, POUT=+17dBm    |  N/A   |   170      |  N/A  |  mA  |
++--------------------------------------+--------+------------+-------+------+
 
 .. Note::
 * Modem-Sleep mode can be used for the case that CPU is always working, e.g., PWM or I2S etc. If WiFi is connected and no data is to transmitted, in this case, WiFi modem can be closed to save power energy. For example, if at DTIM3 status,  keep asleep at 300ms, Then, the module can wake up to receive the Beacon package within 3ms and the current being 15mA.
