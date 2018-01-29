@@ -187,9 +187,9 @@ Electronical Property
 |       +-----------+-------------+-------------+-----------+-----------+-----------+   
 |       |     IMAX  |   -         |    -        |   -       |    12     |   mA      |
 +-------+-----------+-------------+-------------+-----------+-----------+-----------+
-|Electrostatic(BODY)|  TAMB=25℃  |    -        |   -       |    2      |    kV     |
+|Electrostatic(BODY)|  TAMB=25    |    -        |   -       |    2      |    kV     |
 +-------------------+-------------+-------------+-----------+-----------+-----------+   
-|Electrostatic(BODY)|  TAMB=25℃  |    -        |   -       |    0.5    |    kV     |
+|Electrostatic(BODY)|  TAMB=25    |    -        |   -       |    0.5    |    kV     |
 +-------------------+-------------+-------------+-----------+-----------+-----------+
 
 Power Consumption
@@ -204,6 +204,12 @@ Power Consumption
 |Tx802.11b, CCK 11Mbps, POUT=+17dBm   |    -        |   170       |    -      |   mA      |
 +-------------------------------------+-------------+-------------+-----------+-----------+
 |Tx802.11g, OFDM 54 Mbps, POUT =+15dBm|    -        |   140       |    -      |   mA      |                                      +-------------------------------------+-------------+-------------+-----------+-----------+
+
++--------+-------+--------+-----+-----------------------+  
+| Length | Width | Height | Pin | Distance between pins |                                                         
++========+=======+========+=====+=======================+   
+| 24.5mm | 14mm  |  3mm   | 4x2 |       2.54mm          |
++--------+-------+--------+-----+-----------------------+  
 
 .. Note::
 * Modem-Sleep mode can be used for the case that CPU is always working, e.g., PWM or I2S etc. If WiFi is connected and no data is to transmitted, in this case, WiFi modem can be closed to save power energy. For example, if at DTIM3 status,  keep asleep at 300ms, Then, the module can wake up to receive the Beacon package within 3ms and the current being 15mA.
