@@ -212,3 +212,15 @@ Power Consumption
 
 * Deep-Sleep mode is applied to the case that Wi-Fi is not necessary to connect all the time, just send a data packet after a long time  (e.g., transmit one temperate data each 100s) . it just need 0.3s-1s to connect AP after each 300s, and the whole average current is much smaller 1mA.
 
+Wi-Fi RF Characteristics
+------------------------
+
+The data in the following Table is gotten when voltage is 3.3V and1.1V in the indoor temperature environment. 
+
+Wi-Fi RF Characteristics
+^^^^^^^^^^^^^
++----------------------------+-------------+-------------+-----------+-----------+
+|         Parameters         |     Min     |  Classical  |    Max    |   Unite   |                                    +============================+=============+=============+===========+===========+
+|Input frequencey            |   2412      |  N/A        |   2484    |   MHz     |
++----------------------------+-------------+-------------+-----------+-----------+
+|Input impedance             |    noe      |   140       |   none    |   mA      |                                              +----------------------------+-------------+-------------+-----------+-----------+
