@@ -1,6 +1,6 @@
-.. _database
+﻿.. _database
 
-工具篇
+Applications & Solutions
 ============================
 
 这篇是 Python 数据科学方面的书、好资源、好用工具等;\
