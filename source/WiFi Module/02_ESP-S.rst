@@ -1,2 +1,2 @@
-User Manual for ESP-F
+User Manual for ESP-S
 ==============================
