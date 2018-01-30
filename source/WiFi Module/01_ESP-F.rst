@@ -303,12 +303,12 @@ The Recommended Sold Temperature Curve
  Schematics for ESP-F
  ------------------
  
-  .. figure:: ../_static/ESPFSchematics.png
-     :align: center
-     :alt: Schematics for ESP-F
-     :figclass: align-center
-    
-    Schematics for ESP-F
+ .. figure:: ../_static/ESPFSchematics.png
+    :align: center
+    :alt: ESP-F temperature curve
+    :figclass: align-center
+
+    ESP-F temperature curve
     
  Minimum System
  --------------
@@ -318,7 +318,7 @@ The Recommended Sold Temperature Curve
     :alt: Minimum for ESP-F
     :figclass: align-center
     
- Minimum for ESP-F
+     Minimum for ESP-F
  
 .. Note::
 (1) the working voltage for module is DC 3.3V;
@@ -338,21 +338,21 @@ Wi-Fi module can be inserted into the PCB board directly. For the high RF perfor
     :alt: Scheme1 for ESP-F
     :figclass: align-center
     
- Scheme1 for ESP-F
+     Scheme1 for ESP-F
  
   .. figure:: ../_static/ESPFS1.png
     :align: center
     :alt: Scheme2 for ESP-F
     :figclass: align-center
     
- Scheme2 for ESP-F
+     Scheme2 for ESP-F
  
   .. figure:: ../_static/ESPFS1.png
     :align: center
     :alt: Scheme3 for ESP-F
     :figclass: align-center
     
- Scheme3 for ESP-F
+     Scheme3 for ESP-F
  
 Contact Us
  --------
