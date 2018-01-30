@@ -2,7 +2,7 @@ User Manual for ESP-F
 ==============================
 :Date:   2018-01-26
 
-This section provides the user manual for ESP-F.
+This section provides the user manual for ESP-F, which can be ordered at the our shop: `www.vvdoit.com <http://vvdoit.com/>`_
 
 Introduction
 ------------
