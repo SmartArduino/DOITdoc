@@ -305,13 +305,13 @@ The Recommended Sold Temperature Curve
  
  .. figure:: ../_static/ESPFSchematics.png
     :align: center
-    :alt: ESP-F temperature curve
+    :alt: ESP-F Schematics
     :figclass: align-center
 
-    ESP-F temperature curve
+    ESP-F Schematics
     
- Minimum System
- --------------
+Minimum System
+--------------
  
  .. figure:: ../_static/ESPFMinimum.png
     :align: center
