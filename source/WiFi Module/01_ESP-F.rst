@@ -313,14 +313,6 @@ The Recommended Sold Temperature Curve
  Minimum System
  --------------
  
-   .. figure:: ../_static/ESPFSchematics.png
-    :align: center
-    :alt: Schematics for ESP-F
-    :figclass: align-center
-    
- Schematics for ESP-F
- --------------   
- 
  .. figure:: ../_static/ESPFMinimum.png
     :align: center
     :alt: Minimum for ESP-F
@@ -369,4 +361,4 @@ Contact Us
  * Emails: yichone@doit.am; yichoneyi@163.com
  * Skype: yichone
  * Official site: `www.doit.am <http://www.doit.am/>`_
- * official shop: _`www.vvdoit.com <http://www.vvdoit.com>`_; _`www.smartarduino.com <http://www.smartarduino.com>`_.
+ * official shop: `www.vvdoit.com <http://www.vvdoit.com>_`; `www.smartarduino.com <http://www.smartarduino.com/>`_.
