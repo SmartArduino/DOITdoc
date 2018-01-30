@@ -1,4 +1,4 @@
-User Manual for ESP-M1/M2
+ESP-M1/M2
 ==============================
 
 Introduction
