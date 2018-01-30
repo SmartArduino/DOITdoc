@@ -24,8 +24,8 @@ This caterpillar is generally used for the assembling tank, which is connected o
  
  Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference. But metal caterpillar looks very cool. If you want to order, please move to this links: 
  
- * `plastic caterpillar <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
- * `plastic caterpillar <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
+ * `Plastic caterpillar <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
+ * `Metal caterpillar <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
  
  
  
