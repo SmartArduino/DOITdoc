@@ -301,12 +301,12 @@ The Recommended Sold Temperature Curve
     ESP-F temperature curve
     
  Schematics for ESP-F
- --------------
+ ------------------
  
-    .. figure:: ../_static/ESPFSchematics.png
-    :align: center
-    :alt: Schematics for ESP-F
-    :figclass: align-center
+  .. figure:: ../_static/ESPFSchematics.png
+     :align: center
+     :alt: Schematics for ESP-F
+     :figclass: align-center
     
     Schematics for ESP-F
     
@@ -361,4 +361,4 @@ Contact Us
  * Emails: yichone@doit.am; yichoneyi@163.com
  * Skype: yichone
  * Official site: `www.doit.am <http://www.doit.am/>`_
- * official shop: `www.vvdoit.com <http://www.vvdoit.com>_`; `www.smartarduino.com <http://www.smartarduino.com/>`_.
+ * official shop: `www.vvdoit.com <http://www.vvdoit.com/>`_; `www.smartarduino.com <http://www.smartarduino.com/>`_.
