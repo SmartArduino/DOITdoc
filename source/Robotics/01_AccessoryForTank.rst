@@ -1,5 +1,5 @@
 =================
-Accessories for robot tank car chassis
+Accessories for Robot Tank Car Chassis
 =================
 
 :Date:   2018-01-30
@@ -8,6 +8,9 @@ In this part, we will provide some assembling document, examples video, source c
 
 Track/Caterpillar/Pedrail for Tank car chassis
 -------------------------
+
+Caterpillar TC-09
+^^^^^^^^^^^
 
 This caterpillar is generally used for the assembling tank, which is connected one by one. So, we can change the length for the caterpillar for our requirment, as shown in the following picture.
 
@@ -22,12 +25,13 @@ This caterpillar is generally used for the assembling tank, which is connected o
  
  How to order
  
- Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference. But metal caterpillar looks very cool. If you want to order, please move to this links: 
+ Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference, just excluding the materials: one is plastic, and another is metal. But metal caterpillar looks very cool. If you want to order, please move to this links: 
  
  * `Plastic caterpillar <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
  * `Metal caterpillar <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
  
- 
+Caterpillar TC-03
+^^^^^^^^^^^ 
  
  
  
