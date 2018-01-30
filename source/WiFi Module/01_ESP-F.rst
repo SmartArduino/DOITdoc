@@ -16,6 +16,68 @@ Introduction
     ESP-F Module Structure
   
   The ESP-F module supports the standard IEEE802.11 b/g/n/e/i protocol and the complete TCP/IP protocol stack. User can use it to add the  WiFi function for the installed devices, and also can be viewed as a independent network controller.  Anyway, ESP-F module provides many probabilities with the best price.
+  
+Features
+-------
+
+SOC characteristics
+^^^^^^^^^
+* Built-in Tensilica L106 ultra-low power consumption 32-bit cpu,  the main frequency can be  80MHz and 160MHz,  also support RTOS;
+* Built-in TCP/IP protocol stack;
+* Built-in 1 channel 10-bit high precision ADC;
+* The outside interfaces have HSPI, UART, I2C, I2S, IR Remote Control, PWM, GPIO;
+* The deep-sleep current is about 10uA, and the cut-off current is smaller than 5uA;
+* Can be wake-up within 2 ms, and connect to transmit data package;
+* the consume power is smaller than 1.0mW (DTIM3) when at standby status;
+* Wi-Fi characteristics
+* Support 802.11 b/g/n/e/i
+* Support three modes: Station, SoftAP, and SoftAP+STA;
+* SupportWi-Fi Direct(P2P);
+* Support hardware acceleration for CCMP (CBC-MAC, computation mode), TKIP (MIC, RC4), WAPI(SMS4), WEP(RC4), CRC;
+* P2P find, P2P GO mode/GC mode and P2P power management;
+* WPA/PA2 PSK and WPS;
+* Support 802.11 i  security: pre-certification and TSN;
+* Support 802.11n (2.4 GHz);
+* 802.1h/RFC1042 frame encapsulation;
+* Support seamless roam; 
+* Support AT remote updation and cloud OTA updation;
+* Support SmartConfig function for Android and iOS device SmartConfig.
+
+Peripheral for Module
+--------------
+
+* 2*UART;
+* 1*En;
+* 1*ADC
+* 1*wakeup pin
+* 1*HSPI
+* 1*I2C
+* 1*I2S
+* 4M byte Flash
+* MAX 11* GPIOs;
+* Working temperature: -40℃-85℃
+* Module size: 16mm*24mm;
+
+Applications
+--------
+* Serial Transparent transmission;                           
+* Smart power plug/Smart LED light;                       
+* Sensor networks;        
+* Wearable electronics;
+* Securit ID label;       
+* Wireless location recognition;
+* Wireless location system beacon;
+* WiFi prober;
+* Mesh networks;
+* Industrial wireless control.
+
+Module Type
+-----
++----------+-----------------------+
+|  Name    |     Antenna Type      |
++==========+=======================+
+|  ESP-F   |  PCB on board antenna |
++----------+-----------------------+
 
 Parameters for ESP-F are listed as follows.
 
@@ -301,32 +363,24 @@ The Recommended Sold Temperature Curve
     ESP-F temperature curve
     
  Schematics for ESP-F
- --------------
+ ------------------
  
-    .. figure:: ../_static/ESPFSchematics.png
+ .. figure:: ../_static/ESPFSchematics.png
     :align: center
-    :alt: Schematics for ESP-F
+    :alt: ESP-F Schematics
     :figclass: align-center
+
+    ESP-F Schematics
     
-    Schematics for ESP-F
-    
- Minimum System
- --------------
- 
-   .. figure:: ../_static/ESPFSchematics.png
-    :align: center
-    :alt: Schematics for ESP-F
-    :figclass: align-center
-    
- Schematics for ESP-F
- --------------   
+Minimum System
+--------------
  
  .. figure:: ../_static/ESPFMinimum.png
     :align: center
     :alt: Minimum for ESP-F
     :figclass: align-center
     
- Minimum for ESP-F
+    Minimum for ESP-F
  
 .. Note::
 (1) the working voltage for module is DC 3.3V;
@@ -339,32 +393,35 @@ The Recommended PCB Design
 ------------
 
 Wi-Fi module can be inserted into the PCB board directly. For the high RF performance for the end device, please note the placement for the antenna and the module. 
-    It is suggested that the module is placed along with PCB side, the antenna is placed outside the board, or along with the PCB side,  and the below board is blank, please refer to the scheme 1 and scheme 2; if the PCB antenna must placed on the board, please do not cover the copper at the bottom of PCB antenna, as can be shown at scheme 3.
     
- .. figure:: ../_static/ESPFS1.png
+It is suggested that the module is placed along with PCB side, the antenna is placed outside the board, or along with the PCB side,  and the below board is blank, please refer to the scheme 1 and scheme 2; if the PCB antenna must placed on the board, please do not cover the copper at the bottom of PCB antenna, as can be shown at scheme 3.
+    
+.. figure:: ../_static/ESPFS1.png
     :align: center
-    :alt: Scheme1 for ESP-F
+    :alt: ESP-F S1
     :figclass: align-center
+
+    ESP-F S1
     
- Scheme1 for ESP-F
- 
-  .. figure:: ../_static/ESPFS1.png
+.. figure:: ../_static/ESPFS2.png
     :align: center
-    :alt: Scheme2 for ESP-F
+    :alt: ESP-F S2
     :figclass: align-center
+
+    ESP-F S2
     
- Scheme2 for ESP-F
- 
-  .. figure:: ../_static/ESPFS1.png
+.. figure:: ../_static/ESPFS3.png
     :align: center
-    :alt: Scheme3 for ESP-F
+    :alt: ESP-F S3
     :figclass: align-center
-    
- Scheme3 for ESP-F
+
+    ESP-F S3
  
- Contact Us
- --------
+Contact Us
+--------
  
  * WhatsApp: +18676662425
  * Emails: yichone@doit.am; yichoneyi@163.com
  * Skype: yichone
+ * Official site: `www.doit.am <http://www.doit.am/>`_
+ * official shop: `www.vvdoit.com <http://www.vvdoit.com/>`_; `www.smartarduino.com <http://www.smartarduino.com/>`_.
