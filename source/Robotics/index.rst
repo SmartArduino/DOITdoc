@@ -1,13 +1,21 @@
 .. _database
 
-工具篇
+WiFi Modules
 ============================
 
-这篇是 Python 数据科学方面的书、好资源、好用工具等;\
+In this part, we will provide the user manuals for the documents for DOIT robotics;\
 
 .. toctree::
     :maxdepth: 1
-    :numbered: 1    
+    :numbered: 2    
 
-    01_books
-    02_resource
+    01_AccessoryForTank
+    02_TankChassis
+    03_AccessoryForCar
+    04_CarChassis
+    05_2WDwifi
+    06_4WDwifi
+    07_2WDwifiVideo
+    08_4WDwifivideo
+    09_
+
