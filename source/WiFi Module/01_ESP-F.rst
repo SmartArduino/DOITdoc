@@ -356,7 +356,7 @@ It is suggested that the module is placed along with PCB side, the antenna is pl
     ESP-F S3
  
 Contact Us
- --------
+--------
  
  * WhatsApp: +18676662425
  * Emails: yichone@doit.am; yichoneyi@163.com
