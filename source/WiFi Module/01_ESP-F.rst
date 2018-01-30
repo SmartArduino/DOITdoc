@@ -336,24 +336,24 @@ It is suggested that the module is placed along with PCB side, the antenna is pl
     
  .. figure:: ../_static/ESPFS1.png
     :align: center
-    :alt: Scheme1 for ESP-F
+    :alt: ESP-F S1
     :figclass: align-center
+
+    ESP-F S1
     
-     Scheme1 for ESP-F
- 
-  .. figure:: ../_static/ESPFS1.png
-     :align: center
-     :alt: Scheme2 for ESP-F
-     :figclass: align-center
+  .. figure:: ../_static/ESPFS2.png
+    :align: center
+    :alt: ESP-F S2
+    :figclass: align-center
+
+    ESP-F S2
     
-     Scheme2 for ESP-F
- 
-  .. figure:: ../_static/ESPFS1.png
-     :align: center
-     :alt: Scheme3 for ESP-F
-     :figclass: align-center
-    
-     Scheme3 for ESP-F
+  .. figure:: ../_static/ESPFS3.png
+    :align: center
+    :alt: ESP-F S3
+    :figclass: align-center
+
+    ESP-F S3
  
 Contact Us
  --------
