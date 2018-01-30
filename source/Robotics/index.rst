@@ -1,6 +1,6 @@
 .. _database
 
-WiFi Modules
+Robotics
 ============================
 
 In this part, we will provide the user manuals for the documents for DOIT robotics;\
