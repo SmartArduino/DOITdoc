@@ -170,9 +170,6 @@ Electronical Characteristics
 
 Please refers to the following table.
 
-Electronical Property
-"""""""""""
-
 +--------------------+-------------+--------------+------------+-----------+-----------+
 |    Parameters      |   Condition |     Min      | Classical  |    Max    |    Unite  |
 +====================+=============+==============+============+===========+===========+
@@ -218,7 +215,7 @@ Electronical Property
 Please refer to the following table.
 
 Power Consumption
-"""""""
+---------------
 +--------------------------------------+--------+------------+-------+------+
 |     Parameters                       |  Min   |  Classical |  Max  |Unite |
 +======================================+========+============+=======+======+
