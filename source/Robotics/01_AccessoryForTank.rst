@@ -11,7 +11,7 @@ Track/Caterpillar/Pedrail for Tank car chassis
 
 This caterpillar is generally used for the assembling tank, which is connected one by one. So, we can change the length for the caterpillar for our requirment, as shown in the following picture.
 
-  .. figure:: ../_static/Caterpillarpull.jpg
+  .. figure:: ../_static/caterpillarpull.jpg
     :align: center
     :alt: Stripping the carterpillar
     :figclass: align-center
