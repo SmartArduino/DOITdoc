@@ -362,9 +362,11 @@ Wi-Fi module can be inserted into the PCB board directly. For the high RF perfor
     
  Scheme3 for ESP-F
  
- Contact Us
+Contact Us
  --------
  
  * WhatsApp: +18676662425
  * Emails: yichone@doit.am; yichoneyi@163.com
  * Skype: yichone
+ * Official site: `www.doit.am <http://www.doit.am/>`_
+ * official shop: _`www.vvdoit.com <http://www.vvdoit.com>`_; _`www.smartarduino.com <http://www.smartarduino.com>`_.
