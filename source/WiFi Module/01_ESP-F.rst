@@ -55,11 +55,8 @@ Peripheral for Module
 * 1*I2S
 * 4M byte Flash
 * MAX 11* GPIOs;
-
-Working temperature: -40℃-85℃
-^^^^^^^^^
-Module size: 16mm*24mm;
-^^^^^^
+* Working temperature: -40℃-85℃
+* Module size: 16mm*24mm;
 
 Applications
 --------
