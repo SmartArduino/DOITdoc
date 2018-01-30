@@ -29,7 +29,8 @@ SOC characteristics
 * The deep-sleep current is about 10uA, and the cut-off current is smaller than 5uA;
 * Can be wake-up within 2 ms, and connect to transmit data package;
 * the consume power is smaller than 1.0mW (DTIM3) when at standby status;
-* Wi-Fi characteristics
+Wi-Fi characteristics
+^^^^^^
 * Support 802.11 b/g/n/e/i
 * Support three modes: Station, SoftAP, and SoftAP+STA;
 * SupportWi-Fi Direct(P2P);
@@ -78,6 +79,9 @@ Module Type
 +==========+=======================+
 |  ESP-F   |  PCB on board antenna |
 +----------+-----------------------+
+
+Parameters
+---------
 
 Parameters for ESP-F are listed as follows.
 
