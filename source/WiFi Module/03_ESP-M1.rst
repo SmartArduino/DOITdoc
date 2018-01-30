@@ -210,7 +210,7 @@ Shape and size for this module can be shown as follows. Its size is 16mm*24mm*3m
     ESP-M2 Module
 
 Size of ESP-M1 module
-"""""""""
+^^^^^^^^
 +--------+-------+--------+-----------------+-----------------------+  
 | Length | Width | Height | PAD Size(bottom)| Distance between pins |                                                         
 +========+=======+========+=================+=======================+   
@@ -218,7 +218,7 @@ Size of ESP-M1 module
 +--------+-------+--------+-----------------+-----------------------+   
 
 Size of ESP-M2 module
-"""""""""
+^^^^^^^^^^
 +--------+-------+--------+-----------------+-----------------------+  
 | Length | Width | Height | PAD Size(bottom)| Distance between pins |                                                         
 +========+=======+========+=================+=======================+   
