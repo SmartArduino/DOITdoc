@@ -334,21 +334,21 @@ Wi-Fi module can be inserted into the PCB board directly. For the high RF perfor
     
 It is suggested that the module is placed along with PCB side, the antenna is placed outside the board, or along with the PCB side,  and the below board is blank, please refer to the scheme 1 and scheme 2; if the PCB antenna must placed on the board, please do not cover the copper at the bottom of PCB antenna, as can be shown at scheme 3.
     
- .. figure:: ../_static/ESPFS1.png
+.. figure:: ../_static/ESPFS1.png
     :align: center
     :alt: ESP-F S1
     :figclass: align-center
 
-     ESP-F S1
+    ESP-F S1
     
-  .. figure:: ../_static/ESPFS2.png
+.. figure:: ../_static/ESPFS2.png
     :align: center
     :alt: ESP-F S2
     :figclass: align-center
 
-     ESP-F S2
+    ESP-F S2
     
-  .. figure:: ../_static/ESPFS3.png
+.. figure:: ../_static/ESPFS3.png
     :align: center
     :alt: ESP-F S3
     :figclass: align-center
