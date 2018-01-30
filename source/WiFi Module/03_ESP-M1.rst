@@ -1,4 +1,4 @@
-User Manual for ESP-S
+User Manual for ESP-M1/M2
 ==============================
 
 Introduction
@@ -52,7 +52,7 @@ Peripheral for Module
 * 1*I2S;
 * MAX 10* GPIOs;
 * Working temperature: -40℃-125℃
-* Module size: 
+Module size: 
 * 12.3*mm*15mm; (M1 version)
 * 12.3*mm*20mm; (M2 version)
 
@@ -79,3 +79,5 @@ Module Type
 |  ESP-M2  |  PCB on board antenna |
 +----------+-----------------------+
 
+Paramters
+--------
