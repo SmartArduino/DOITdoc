@@ -318,7 +318,7 @@ Minimum System
     :alt: Minimum for ESP-F
     :figclass: align-center
     
-     Minimum for ESP-F
+    Minimum for ESP-F
  
 .. Note::
 (1) the working voltage for module is DC 3.3V;
@@ -339,14 +339,14 @@ It is suggested that the module is placed along with PCB side, the antenna is pl
     :alt: ESP-F S1
     :figclass: align-center
 
-    ESP-F S1
+     ESP-F S1
     
   .. figure:: ../_static/ESPFS2.png
     :align: center
     :alt: ESP-F S2
     :figclass: align-center
 
-    ESP-F S2
+     ESP-F S2
     
   .. figure:: ../_static/ESPFS3.png
     :align: center
