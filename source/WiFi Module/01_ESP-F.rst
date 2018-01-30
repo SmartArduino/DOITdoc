@@ -2,7 +2,7 @@ User Manual for ESP-F
 ==============================
 :Date:   2018-01-26
 
-This section provides the user manual for ESP-F.
+This section provides the user manual for ESP-F, which can be ordered at the our shop: `www.vvdoit.com <http://vvdoit.com/official-doit-esp-f-serial-wireless-wifi-esp8266-module-transmission-serial-iot-diy-fully-compatible-with-better-than-esp-12f-p779561.html>`_
 
 Introduction
 ------------
@@ -362,3 +362,9 @@ Wi-Fi module can be inserted into the PCB board directly. For the high RF perfor
     
  Scheme3 for ESP-F
  
+ Contact Us
+ --------
+ 
+ * WhatsApp: +18676662425
+ * Emails: yichone@doit.am; yichoneyi@163.com
+ * Skype: yichone
