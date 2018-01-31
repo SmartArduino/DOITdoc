@@ -387,6 +387,7 @@ Minimum System
     Minimum for ESP-F
  
 .. Note::
+
 (1) the working voltage for module is DC 3.3V;
 (2) the max current from IO of this module is 12mA;
 (3) RST Pin is enabled when it is low level; and EN pin is enabled when it is high level;
