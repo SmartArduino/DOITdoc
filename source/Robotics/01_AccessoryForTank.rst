@@ -58,6 +58,7 @@ The caterpillar TC-03 can be seen as following picture.
 The order link: `Plastic caterpillar <http://vvdoit.com/original-doit-shock-absorption-plastic-track-for-robot-tank-car-chassis-caterpillar-crawler-conveyor-belt-diy-smart-chain-wheel-p779512.html>`_
  
  .. Note::
+ 
  * The standard length for the two types of caterpillar TC-09 AND TC-03, and their size are the same show as follows.
    80cm*4.5cm (length*width);
  * The stripping ways for the caterpillar are the same;
