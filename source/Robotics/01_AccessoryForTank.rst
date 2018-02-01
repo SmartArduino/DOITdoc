@@ -113,6 +113,15 @@ The parameters can be seen as the follows.
     
     Assembling metal driving wheel
 
+To be fitable the different size for the motor axis, we have the following three size coupling for this wheel: 4mm, 5mm, and 6mm.
+
+.. figure:: ../_static/drivingwheelcoupling.jpg
+   :align: center
+   :alt: Coupling for driving wheel
+   :figclass: align-center
+    
+    Coupling for driving wheel
+
  
  
  
