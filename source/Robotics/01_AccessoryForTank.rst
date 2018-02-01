@@ -73,7 +73,9 @@ The wheel for tank has driving wheel and bearing wheel. And each wheel can be me
 Driving wheels for the caterpillar TC-09
 ^^^^^^^^^^
 
-* Metal Driving Wheel
+Metal Driving Wheel
+^^^^^^^^^^^
+
 The parameters can be seen as the follows.
 * Name: metal driving wheel
 * Color: silver and golden yellow
@@ -110,6 +112,15 @@ The parameters can be seen as the follows.
    :figclass: align-center
     
     Assembling metal driving wheel
+
+To be fitable the different size for the motor axis, we have the following three size coupling for this wheel: 4mm, 5mm, and 6mm.
+
+.. figure:: ../_static/drivingwheelcoupling.jpg
+   :align: center
+   :alt: Coupling for driving wheel
+   :figclass: align-center
+    
+    Coupling for driving wheel
 
  
  
