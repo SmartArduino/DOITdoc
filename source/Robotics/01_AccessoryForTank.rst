@@ -64,12 +64,58 @@ The order link: `Plastic caterpillar TC-03 <http://vvdoit.com/original-doit-shoc
  * The stripping ways for the caterpillar are the same;
  * The difference for TC-09 AND TC-03 is for the middle. For TC-03 has two small holes, while TC-09 JUST has one small holes;
  * The assembling is the same.
+
+Wheels for Tank
+----------
+
+The wheel for tank has driving wheel and bearing wheel. And each wheel can be metal and plastic. Especially, considering the caterpillar is different, so there are different wheels for caterpillar TC-09 and TC-03.
+
+Driving wheels for the caterpillar TC-09
+^^^^^^^^^^
+
+* Metal Driving Wheel
+The parameters can be seen as the follows.
+* Name: metal driving wheel
+* Color: silver and golden yellow
+* Material: aluminum alloy
+* Color: silver/yellow
+* Inner size for the coupling of the wheel: 4mm/5mm/6mm
+* Type: driving
+* Size: 31.85 (distance for coupling)*48.03 (diameter)*34.08 (for bearing connector) mm
+
+.. figure:: ../_static/drivingwheeltc09.jpg
+   :align: center
+   :alt: Metal driving wheel suitable for TC-09
+   :figclass: align-center
+    
+    Metal driving wheel suitable for TC-09
+
+.. figure:: ../_static/drivingwheelkit.jpg
+   :align: center
+   :alt: List for metal driving wheel
+   :figclass: align-center
+    
+    List for metal driving wheel
+    
+.. figure:: ../_static/drivingwheelalign.jpg
+   :align: center
+   :alt: Align metal driving wheel
+   :figclass: align-center
+    
+    Align for metal driving wheel
+ 
+.. figure:: ../_static/drivingwheelassemble.jpg
+   :align: center
+   :alt: Assembling metal driving wheel
+   :figclass: align-center
+    
+    Assembling metal driving wheel
+
  
  
  
  
- 
- Contact Us
+Contact Us
 --------
  
  * WhatsApp: +18676662425
