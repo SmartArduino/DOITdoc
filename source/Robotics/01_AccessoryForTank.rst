@@ -29,10 +29,10 @@ Caterpillar TC-09
 ^^^^^^^^^^^
 The caterpillar TC-09 can be seen as following picture.
 
-  .. figure:: ../_static/tc09.jpg
-    :align: center
-    :alt: Caterpillar TC-09
-    :figclass: align-center
+ .. figure:: ../_static/tc09.jpg
+   :align: center
+   :alt: Caterpillar TC-09
+   :figclass: align-center
     
     Caterpillar TC-09
 
@@ -40,22 +40,22 @@ How to order
 
  Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference, just excluding the materials: one is plastic, and another is metal. But metal caterpillar looks very cool. If you want to order, please move to this links: 
  
- * `Plastic caterpillar <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
- * `Metal caterpillar <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
+ * `Plastic caterpillar TC-09 <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
+ * `Metal caterpillar TC-09 <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
  
 Caterpillar TC-03
 ^^^^^^^^^^^ 
 
 The caterpillar TC-03 can be seen as following picture.
 
-  .. figure:: ../_static/tc03.jpg
-    :align: center
-    :alt: Caterpillar TC-03
-    :figclass: align-center
+.. figure:: ../_static/tc03.jpg
+   :align: center
+   :alt: Caterpillar TC-03
+   :figclass: align-center
     
     Caterpillar TC-03
     
-The order link: `Plastic caterpillar <http://vvdoit.com/original-doit-shock-absorption-plastic-track-for-robot-tank-car-chassis-caterpillar-crawler-conveyor-belt-diy-smart-chain-wheel-p779512.html>`_
+The order link: `Plastic caterpillar TC-03 <http://vvdoit.com/original-doit-shock-absorption-plastic-track-for-robot-tank-car-chassis-caterpillar-crawler-conveyor-belt-diy-smart-chain-wheel-p779512.html>`_
  
 .. Note::
  
@@ -64,12 +64,58 @@ The order link: `Plastic caterpillar <http://vvdoit.com/original-doit-shock-abso
  * The stripping ways for the caterpillar are the same;
  * The difference for TC-09 AND TC-03 is for the middle. For TC-03 has two small holes, while TC-09 JUST has one small holes;
  * The assembling is the same.
+
+Wheels for Tank
+----------
+
+The wheel for tank has driving wheel and bearing wheel. And each wheel can be metal and plastic. Especially, considering the caterpillar is different, so there are different wheels for caterpillar TC-09 and TC-03.
+
+Driving wheels for the caterpillar TC-09
+^^^^^^^^^^
+
+* Metal Driving Wheel
+The parameters can be seen as the follows.
+* Name: metal driving wheel
+* Color: silver and golden yellow
+* Material: aluminum alloy
+* Color: silver/yellow
+* Inner size for the coupling of the wheel: 4mm/5mm/6mm
+* Type: driving
+* Size: 31.85 (distance for coupling)*48.03 (diameter)*34.08 (for bearing connector) mm
+
+.. figure:: ../_static/drivingwheeltc09.jpg
+   :align: center
+   :alt: Metal driving wheel suitable for TC-09
+   :figclass: align-center
+    
+    Metal driving wheel suitable for TC-09
+
+.. figure:: ../_static/drivingwheelkit.jpg
+   :align: center
+   :alt: List for metal driving wheel
+   :figclass: align-center
+    
+    List for metal driving wheel
+    
+.. figure:: ../_static/drivingwheelalign.jpg
+   :align: center
+   :alt: Align metal driving wheel
+   :figclass: align-center
+    
+    Align for metal driving wheel
+ 
+.. figure:: ../_static/drivingwheelassemble.jpg
+   :align: center
+   :alt: Assembling metal driving wheel
+   :figclass: align-center
+    
+    Assembling metal driving wheel
+
  
  
  
  
- 
- Contact Us
+Contact Us
 --------
  
  * WhatsApp: +18676662425
