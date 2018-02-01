@@ -40,8 +40,8 @@ How to order
 
  Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference, just excluding the materials: one is plastic, and another is metal. But metal caterpillar looks very cool. If you want to order, please move to this links: 
  
- * `Plastic caterpillar <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
- * `Metal caterpillar <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
+ * `Plastic caterpillar TC-09 <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
+ * `Metal caterpillar TC-09 <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
  
 Caterpillar TC-03
 ^^^^^^^^^^^ 
@@ -55,7 +55,7 @@ The caterpillar TC-03 can be seen as following picture.
     
     Caterpillar TC-03
     
-The order link: `Plastic caterpillar <http://vvdoit.com/original-doit-shock-absorption-plastic-track-for-robot-tank-car-chassis-caterpillar-crawler-conveyor-belt-diy-smart-chain-wheel-p779512.html>`_
+The order link: `Plastic caterpillar TC-03 <http://vvdoit.com/original-doit-shock-absorption-plastic-track-for-robot-tank-car-chassis-caterpillar-crawler-conveyor-belt-diy-smart-chain-wheel-p779512.html>`_
  
 .. Note::
  
