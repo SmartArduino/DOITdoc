@@ -150,9 +150,28 @@ To be fitable the different size for the motor axis, we have the following three
  
 Bearing Wheel TB-09
 ^^^^^^^^
-The bearing wheel can be 
- 
- 
+The bearing wheel can be seen as follows, which is assembled by two bearings. So the friction is very small, and can make the wheel move smoothly.
+
+.. figure:: ../_static/TB09.jpg
+   :align: center
+   :alt: List of bearing wheel TB-09
+   :figclass: align-center
+    
+    List of bearing wheel TB-09
+    
+.. figure:: ../_static/TB091.jpg
+   :align: center
+   :alt: Bearing wheel TB-09
+   :figclass: align-center
+    
+    Bearing wheel TB-09 
+    
+ .. figure:: ../_static/TB092.jpg
+   :align: center
+   :alt: Bearing wheel TB-09
+   :figclass: align-center
+    
+    Bearing wheel TB-09  
  
  
  
