@@ -29,10 +29,10 @@ Caterpillar TC-09
 ^^^^^^^^^^^
 The caterpillar TC-09 can be seen as following picture.
 
-  .. figure:: ../_static/tc09.jpg
-    :align: center
-    :alt: Caterpillar TC-09
-    :figclass: align-center
+ .. figure:: ../_static/tc09.jpg
+   :align: center
+   :alt: Caterpillar TC-09
+   :figclass: align-center
     
     Caterpillar TC-09
 
@@ -48,10 +48,10 @@ Caterpillar TC-03
 
 The caterpillar TC-03 can be seen as following picture.
 
-  .. figure:: ../_static/tc03.jpg
-    :align: center
-    :alt: Caterpillar TC-03
-    :figclass: align-center
+.. figure:: ../_static/tc03.jpg
+   :align: center
+   :alt: Caterpillar TC-03
+   :figclass: align-center
     
     Caterpillar TC-03
     
