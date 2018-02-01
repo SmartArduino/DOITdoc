@@ -150,7 +150,15 @@ To be fitable the different size for the motor axis, we have the following three
  
 Bearing Wheel TB-09
 ^^^^^^^^
-The bearing wheel can be seen as follows, which is assembled by two bearings. So the friction is very small, and can make the wheel move smoothly.
+The bearing wheel can be seen as follows, which is assembled by two bearings. So the friction is very small, and can make the wheel move smoothly. The parameters is as follows.
+
+Name: metal bearing wheel
+Color: silver and golden yellow
+Material: aluminum alloy
+Type: bearing
+Size: 20.75 (distance for coupling)*47.50 (diameter)*38 (for bearing connector) mm
+
+
 
 .. figure:: ../_static/TB09.jpg
    :align: center
