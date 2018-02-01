@@ -73,7 +73,9 @@ The wheel for tank has driving wheel and bearing wheel. And each wheel can be me
 Driving wheels for the caterpillar TC-09
 ^^^^^^^^^^
 
-* Metal Driving Wheel
+Metal Driving Wheel
+^^^^^^^^^^^
+
 The parameters can be seen as the follows.
 * Name: metal driving wheel
 * Color: silver and golden yellow
