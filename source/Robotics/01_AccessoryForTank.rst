@@ -211,9 +211,9 @@ In fact, the TW-03 is the same as the TW-09. The only difference is the size, to
    
    Metal driving wheel TW-03 for TC-03
    
-The assembling way is the same as :ref:`the assembling of TW-09<Metal Driving Wheel TW-09>` 
+The assembling way is the same as :ref:`the assembling of TW-09 <Metal Driving Wheel TW-09>` 
 
-
+:ref:`ESP32-PICO-KIT V4 mini development board <get-started-pico-kit-v4-board-front>`
 
 
 
