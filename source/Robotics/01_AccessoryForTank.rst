@@ -114,7 +114,7 @@ The parameters can be seen as the follows:
     
     Assembling metal driving wheel
 
-To be fitable the different size for the motor axis, we have the following three size coupling for this wheel: 4mm, 5mm, and 6mm.
+To be fitable for the different size for the motor axis, we have the following three size coupling for this wheel: 4mm, 5mm, and 6mm.
 
 .. figure:: ../_static/drivingwheelcoupling.jpg
    :align: center
@@ -123,7 +123,8 @@ To be fitable the different size for the motor axis, we have the following three
     
     Coupling for driving wheel
 
- Plastic Driving Wheel
+Plastic Driving Wheel
+^^^^^^^^^^^^
  
  The following plastic driving wheel can be used for the caterpillar TC-09.
  
