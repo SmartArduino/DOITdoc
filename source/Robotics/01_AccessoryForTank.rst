@@ -191,6 +191,7 @@ Similarly, there has the plastic bearing wheel to fit the caterpillar TC-09 with
 * Material: plastic
 * Size: 50*35 mm
 * Hole Size: M4 (which can be connected by M4 screw.)
+
 .. figure:: ../_static/pbearingwheel.jpg
    :align: center
    :alt: Plastic bearing wheel for TC-09
@@ -200,13 +201,46 @@ Similarly, there has the plastic bearing wheel to fit the caterpillar TC-09 with
   
 Metal Driving wheel TW-03 for TC-03
 ^^^^^^
+
 In fact, the TW-03 is the same as the TW-09. The only difference is the size, together with the following paramters.
+
 .. figure:: ../_static/tw03.jpg
    :align: center
    :alt: Metal driving wheel TW-03 for TC-03
    :figclass: align-center
+   
    Metal driving wheel TW-03 for TC-03
-The assembling way is the same as :ref:`the assembling of TW-09<Metal Driving Wheel TW-09>` 
+   
+The assembling way is the same as :ref:`Metal Driving Wheel TW-09`.
+
+Metal Bearing Wheel TB-03
+^^^^^^
+The wheel TB-03 is smaller than TB-09 with the following paramters:
+
+.. figure:: ../_static/tb03.jpg
+   :align: center
+   :alt: Metal bearing wheel TB-03 for TC-03
+   :figclass: align-center
+   
+   Metal bearing wheel TB-03 for TC-03
+   
+The assembling method can be seen :ref:`Bearing Wheel TB-09`. Speically, If this wheel is used with the special bracket, then it can used for the shock absorption. See the following picture.
+
+.. figure:: ../_static/tb03bracket.jpg
+   :align: center
+   :alt: TB-03 with bracket for TC-03
+   :figclass: align-center
+   
+   TB-03 with bracket for TC-03
+   
+.. figure:: ../_static/ts100.jpg
+   :align: center
+   :alt: TB-03 with bracket used for TS100
+   :figclass: align-center
+   
+   TB-03 with bracket used for TS100
+
+
 
 
 
