@@ -29,6 +29,7 @@ Caterpillar TC-09
 ^^^^^^^^^^^
 The caterpillar TC-09 can be seen as following picture.
 
+.. _TC-09:
  .. figure:: ../_static/tc09.jpg
    :align: center
    :alt: Caterpillar TC-09
@@ -73,7 +74,7 @@ The wheel for tank has driving wheel and bearing wheel. And each wheel can be me
 Driving wheels for the caterpillar TC-09
 ^^^^^^^^^^
 
-Metal Driving Wheel TW-09
+Metal Driving Wheel TW-09 for :ref:`TC-09 <TC-09>`
 ^^^^^^^^^^^
 
 The parameters can be seen as the follows:
@@ -85,6 +86,7 @@ The parameters can be seen as the follows:
 * Inner size for the coupling of the wheel: 4mm/5mm/6mm
 * Type: driving
 * Size: 31.85 (distance for coupling)*48.03 (diameter)*34.08 (for bearing connector) mm
+
 
 .. figure:: ../_static/drivingwheeltc09.jpg
    :align: center
