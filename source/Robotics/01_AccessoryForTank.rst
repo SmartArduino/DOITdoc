@@ -128,29 +128,29 @@ Plastic Driving Wheel
  
  The following plastic driving wheel can be used for the caterpillar TC-09.
  
-.. figure:: ../_static/Pdrivingwheelcoupling.jpg
+.. figure:: ../_static/Pdrivingwheel.jpg
    :align: center
    :alt: Plastic driving wheel
    :figclass: align-center
     
     Plastic driving wheel
     
- But the related coupling for this plastic driving wheel is as follows. It has 4mm, 5mm, and 6mm from the size.
+But the related coupling for this plastic driving wheel is as follows. It has 4mm, 5mm, and 6mm from the size.
  
- .. figure:: ../_static/Pdrivingwheelcoupling.jpg
+.. figure:: ../_static/Pdrivingwheelcoupling.jpg
    :align: center
    :alt: Coupling for plastic driving wheel
    :figclass: align-center
     
     Coupling for plastic driving wheel
  
- .. Note::
+.. Note::
  
  * In the default case, the coupling must be bought;
  * The assembling method is the same in the following driving wheel for TC-03;
  
 Bearing Wheel TB-09
-^^^^^^^^
+^^^^^^^^^^
 The bearing wheel can be seen as follows, which is assembled by two bearings. So the friction is very small, and can make the wheel move smoothly. The parameters is as follows.
 
 Name: metal bearing wheel
