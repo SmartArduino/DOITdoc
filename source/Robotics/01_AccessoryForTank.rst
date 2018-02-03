@@ -211,7 +211,7 @@ In fact, the TW-03 is the same as the TW-09. The only difference is the size, to
    
    Metal driving wheel TW-03 for TC-03
    
-The assembling way is the same as :ref: `Metal Driving Wheel TW-09`.
+The assembling way is the same as :ref:`Metal Driving Wheel TW-09`.
 
 see :ref:`my-reference-label`.
 
