@@ -199,7 +199,7 @@ Similarly, there has the plastic bearing wheel to fit the caterpillar TC-09 with
     
     Plastic bearing wheel for TC-09
   
-Metal Driving wheel TW-03 for TC-03
+Metal Driving wheel TW-03 for `Caterpillar TC-03`_.
 ^^^^^^
 
 .. figure:: ../_static/tw03.jpg
