@@ -114,7 +114,7 @@ The parameters can be seen as the follows:
     
     Assembling metal driving wheel
 
-To be fitable the different size for the motor axis, we have the following three size coupling for this wheel: 4mm, 5mm, and 6mm.
+To be fitable for the different size for the motor axis, we have the following three size coupling for this wheel: 4mm, 5mm, and 6mm.
 
 .. figure:: ../_static/drivingwheelcoupling.jpg
    :align: center
@@ -123,7 +123,8 @@ To be fitable the different size for the motor axis, we have the following three
     
     Coupling for driving wheel
 
- Plastic Driving Wheel
+Plastic Driving Wheel for TC-09
+^^^^^^^^^^^^
  
  The following plastic driving wheel can be used for the caterpillar TC-09.
  
@@ -134,23 +135,31 @@ To be fitable the different size for the motor axis, we have the following three
     
     Plastic driving wheel
     
- But the related coupling for this plastic driving wheel is as follows. It has 4mm, 5mm, and 6mm from the size.
+But the related coupling for this plastic driving wheel is as follows. It has 4mm, 5mm, and 6mm from the size.
  
- .. figure:: ../_static/Pdrivingwheelcoupling.jpg
+.. figure:: ../_static/Pdrivingwheelcoupling.jpg
    :align: center
    :alt: Coupling for plastic driving wheel
    :figclass: align-center
     
     Coupling for plastic driving wheel
  
- .. Note::
+.. Note::
  
  * In the default case, the coupling must be bought;
  * The assembling method is the same in the following driving wheel for TC-03;
  
 Bearing Wheel TB-09
-^^^^^^^^
-The bearing wheel can be seen as follows, which is assembled by two bearings. So the friction is very small, and can make the wheel move smoothly.
+^^^^^^^^^^
+The bearing wheel can be seen as follows, which is assembled by two bearings. So the friction is very small, and can make the wheel move smoothly. The parameters is as follows.
+
+* Name: metal bearing wheel
+* Color: silver and golden yellow
+* Material: aluminum alloy
+* Type: bearing
+* Size: 20.75 (distance for coupling)*47.50 (diameter)*38 (for bearing connector) mm
+
+
 
 .. figure:: ../_static/TB09.jpg
    :align: center
@@ -166,12 +175,43 @@ The bearing wheel can be seen as follows, which is assembled by two bearings. So
     
     Bearing wheel TB-09 
     
- .. figure:: ../_static/TB092.jpg
+.. figure:: ../_static/TB092.jpg
    :align: center
    :alt: Bearing wheel TB-09
    :figclass: align-center
     
-    Bearing wheel TB-09  
+    Bearing wheel TB-09
+
+Plastic Bearing Wheel
+^^^^^^^^^^^^^^
+
+Similarly, there has the plastic bearing wheel to fit the caterpillar TC-09 with the following parameters:
+
+* Color: black
+* Material: plastic
+* Size: 50*35 mm
+* Hole Size: M4 (which can be connected by M4 screw.)
+.. figure:: ../_static/pbearingwheel.jpg
+   :align: center
+   :alt: Plastic bearing wheel for TC-09
+   :figclass: align-center
+    
+    Plastic bearing wheel for TC-09
+  
+Metal Driving wheel TW-03 for TC-03
+^^^^^^
+In fact, the TW-03 is the same as the TW-09. The only difference is the size, together with the following paramters.
+.. figure:: ../_static/tw03.jpg
+   :align: center
+   :alt: Metal driving wheel TW-03 for TC-03
+   :figclass: align-center
+   Metal driving wheel TW-03 for TC-03
+The assembling way is the same as :ref:`the assembling of TW-09<Metal Driving Wheel TW-09>` 
+
+
+
+
+
  
  
  
