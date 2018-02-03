@@ -127,7 +127,7 @@ To be fitable the different size for the motor axis, we have the following three
  
  The following plastic driving wheel can be used for the caterpillar TC-09.
  
-.. figure:: ../_static/Pdrivingwheel.jpg
+.. figure:: ../_static/Pdrivingwheelcoupling.jpg
    :align: center
    :alt: Plastic driving wheel
    :figclass: align-center
