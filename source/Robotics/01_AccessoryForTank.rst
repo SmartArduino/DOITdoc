@@ -29,7 +29,6 @@ Caterpillar TC-09
 ^^^^^^^^^^^
 The caterpillar TC-09 can be seen as following picture.
 
-.. _TC-09:
  .. figure:: ../_static/tc09.jpg
    :align: center
    :alt: Caterpillar TC-09
@@ -37,9 +36,7 @@ The caterpillar TC-09 can be seen as following picture.
     
     Caterpillar TC-09
 
-How to order
-
- Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference, just excluding the materials: one is plastic, and another is metal. But metal caterpillar looks very cool. If you want to order, please move to this links: 
+Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference, just excluding the materials: one is plastic, and another is metal. But metal caterpillar looks very cool. If you want to order, please move to this links: 
  
  * `Plastic caterpillar TC-09 <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
  * `Metal caterpillar TC-09 <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
