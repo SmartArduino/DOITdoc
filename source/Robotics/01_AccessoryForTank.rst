@@ -224,7 +224,7 @@ The wheel TB-03 is smaller than TB-09 with the following paramters:
    
    Metal bearing wheel TB-03 for TC-03
    
-The assembling method can be seen :ref:`Bearing Wheel TB-09`. Speically, If this wheel is used with the special bracket, then it can used for the shock absorption. See the following picture.
+The assembling method can be seen ::ref:`Bearing Wheel TB-09`. Speically, If this wheel is used with the special bracket, then it can used for the shock absorption. See the following picture.
 
 .. figure:: ../_static/tb03bracket.jpg
    :align: center
