@@ -202,8 +202,6 @@ Similarly, there has the plastic bearing wheel to fit the caterpillar TC-09 with
 Metal Driving wheel TW-03 for TC-03
 ^^^^^^
 
-In fact, the TW-03 is the same as the `TW-09`_. The only difference is the size, together with the following paramters.
-
 .. figure:: ../_static/tw03.jpg
    :align: center
    :alt: Metal driving wheel TW-03 for TC-03
@@ -211,7 +209,7 @@ In fact, the TW-03 is the same as the `TW-09`_. The only difference is the size,
    
    Metal driving wheel TW-03 for TC-03
    
-The assembling way is the same as `Metal Driving Wheel TW-09`.
+The assembling way is the same as `Metal Driving Wheel TW-09`_.
 
 Metal Bearing Wheel TB-03
 ^^^^^^
