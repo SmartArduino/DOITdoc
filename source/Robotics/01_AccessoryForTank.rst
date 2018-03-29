@@ -4,7 +4,9 @@ Accessories for Robot Tank Car Chassis
 
 :Date:   2018-01-30
 
-In this part, we will provide some assembling document, examples video, source code, and user manual for DOIT robotics.
+In this part, we will provide some assembling document, examples video, source code, and user manual for DOIT robotics,
+such as, tank chassis, car chassis, wheels, robot arm, humanoid, and other robotic accessories.
+
 
 Track/Caterpillar/Pedrail for Tank car chassis
 -----------------------------------------------
@@ -13,17 +15,18 @@ About Stripping
 ^^^^^^^^^^^^^^^
 
 This caterpillar is generally used for the assembling tank, which is connected one by one. So, we can change the length for the caterpillar for our requirment, as shown in the following picture.
+This stripping way is suitable for the other plastic track for our products.
 
  .. figure:: ../_static/caterpillarpull.jpg
     :align: center
     :alt: Stripping the carterpillar
     :figclass: align-center
-
- Stripping the carterpillar
+    
+    Stripping the carterpillar
     
  Also, we can watch the vido to know the stripping caterpillar: `Stripping the caterpillar <http://v.youku.com/v_show/id_XMTg4NzYyMzY4NA==.html?spm=a2hzp.8253869.0.0>`_
 
-In fact, we have the following two types of caterpillar: TC-09 AND TC-03.
+In fact, we have the following two types of caterpillar: TC-09 and TC-03.
 
 Caterpillar TC-09
 ~~~~~~~~~~~~~~~~~
@@ -38,8 +41,8 @@ The caterpillar TC-09 can be seen as following picturve.
 
 Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference, just excluding the materials: one is plastic, and another is metal. But metal caterpillar looks very cool. If you want to order, please move to this links: 
  
- * `Plastic caterpillar TC-09 <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
- * `Metal caterpillar TC-09 <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
+ * `Plastic caterpillar TC-09 <http://vvdoit.com/original-doit-2pcs-plastic-track-for-tank-chain-tracked-vehicle-clawler-track-type-remote-control-tank-accessory-diy-rc-toy-p1292289.html>`_ 
+ * `Metal caterpillar TC-09 <http://vvdoit.com/doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p1291920.html>`_ 
  
 Caterpillar TC-03
 ^^^^^^^^^^^^^^^^^^ 
@@ -53,14 +56,14 @@ The caterpillar TC-03 can be seen as following picture.
     
    Caterpillar TC-03
     
-If you like it, the order link: `Plastic caterpillar TC-03 <http://vvdoit.com/original-doit-shock-absorption-plastic-track-for-robot-tank-car-chassis-caterpillar-crawler-conveyor-belt-diy-smart-chain-wheel-p779512.html>`_
+If you like it, the order link: `Plastic caterpillar TC-03 <http://vvdoit.com/doit-shock-absorpber-tracks-plastic-caterpillar-crawler-chain-conveyor-belt-for-robot-tank-chassis-engineering-plastic-tracks-p1292280.html>`_
  
 .. Note::
  
  * The standard length for the two types of caterpillar TC-09 AND TC-03, and their size are the same show as follows.
    80cm*4.5cm (length*width);
  * The stripping ways for the caterpillar are the same;
- * The difference for TC-09 AND TC-03 is for the middle. For TC-03 has two small holes, while TC-09 JUST has one small holes;
+ * The difference for TC-09 and TC-03 is for the middle. For TC-03 has two small holes, while TC-09 JUST has one small holes;
  * The assembling is the same.
 
 Wheels for Tank
@@ -125,7 +128,7 @@ To be fitable for the different size for the motor axis, we have the following t
 Plastic Driving Wheel for TC-09
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
- The following plastic driving wheel can be used for the caterpillar TC-09.
+ The following plastic driving wheel can be used for the `caterpillar TC-09`_.
  
 .. figure:: ../_static/Pdrivingwheel.jpg
    :align: center
@@ -184,7 +187,7 @@ The bearing wheel can be seen as follows, which is assembled by two bearings. So
 Plastic Bearing Wheel
 ^^^^^^^^^^^^^^^^^^^^^
 
-Similarly, there has the plastic bearing wheel to fit the caterpillar TC-09 with the following parameters:
+Similarly, there has the plastic bearing wheel to fit the `caterpillar TC-09`_ with the following parameters:
 
 * Color: black
 * Material: plastic
@@ -198,13 +201,8 @@ Similarly, there has the plastic bearing wheel to fit the caterpillar TC-09 with
     
    Plastic bearing wheel for TC-09
   
-<<<<<<< HEAD
 Metal Driving wheel TW-03 for TC-03
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-=======
-Metal Driving wheel TW-03 for `Caterpillar TC-03`_.
-^^^^^^
->>>>>>> 82b5595ee09b24a7cc04b463b5431fe422b82c43
 
 .. figure:: ../_static/tw03.jpg
    :align: center
@@ -213,11 +211,11 @@ Metal Driving wheel TW-03 for `Caterpillar TC-03`_.
    
    Metal driving wheel TW-03 for TC-03
    
-The assembling way is the same as `Metal Driving Wheel TW-09`_.
+The assembling way for `TW-03 <http://vvdoit.com/doit-new-design-tws-03-aluminum-alloy-metal-damping-driving-wheel-for-toy-tank-track-caterpillar-car-chassis-p1292036.html>`_ is the same as `Metal Driving Wheel TW-09`_.
 
 Metal Bearing Wheel TB-03
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-The wheel TB-03 is smaller than TB-09 with the following paramters:
+The wheel `TB-03 <http://vvdoit.com/original-doit-shock-absorption-metal-bearing-wheel-for-robot-tracked-tank-car-chassis-transmission-wheel-with-suspension-p1291978.html>`_ is smaller than TB-09 with the following paramters:
 
 .. figure:: ../_static/tb03.jpg
    :align: center
@@ -226,11 +224,7 @@ The wheel TB-03 is smaller than TB-09 with the following paramters:
    
    Metal bearing wheel TB-03 for TC-03
    
-<<<<<<< HEAD
-The assembling method can be seen <Bearing Wheel TB-09>_. Speically, If this wheel is used with the special bracket, then it can used for the shock absorption. See the following picture.
-=======
 The assembling method can be seen `Bearing Wheel TB-09`_. Speically, If this wheel is used with the special bracket, then it can used for the shock absorption. See the following picture.
->>>>>>> 82b5595ee09b24a7cc04b463b5431fe422b82c43
 
 .. figure:: ../_static/tb03bracket.jpg
    :align: center
@@ -249,6 +243,7 @@ The assembling method can be seen `Bearing Wheel TB-09`_. Speically, If this whe
 Metal Panel
 -------------
 There have two types of metal panel for robot tank car chassis, together with the following pictures.
+These two metal panel can be compatible with Arduino, and `NodeMCU Motor kit <http://vvdoit.com/s-nodemcu>`_.
 
 Bend Metal Panel
 ^^^^^^^^^^^^^^^^^
@@ -257,7 +252,7 @@ Bend Metal Panel
    :alt: bend panel for robot car chassis
    :figclass: align-center
    
-   Bend panel for robot car chassis
+   `Bend panel for robot car chassis <http://vvdoit.com/doit-metal-panel-frame-bracket-for-robot-tank-car-chassis-caterpillar-crawler-diy-rc-toy-p1291931.html>`_
 
 Straight Metal Panel 
 ^^^^^^^^^^^^^^^^^^^^^
@@ -266,7 +261,7 @@ Straight Metal Panel
    :alt: Straight panel for robot car chassis
    :figclass: align-center
    
-Straight panel for robot car chassis
+   Straight panel for robot car chassis
 
 .. Note:: 
 
@@ -275,7 +270,7 @@ Straight panel for robot car chassis
 
 Motors
 ------
-Now we have three motors as follows.
+Now `our shop <http://vvdoit.com/>`_ have three motors as follows.
 
 9v with Hall sensor
 --------------------
@@ -298,25 +293,61 @@ experiments, we don't use the Hall sensor. The parameters can be seen at the fol
 * Dia. Of Shaft phi4mm, D3.5
 * encoder: 2 pulses/circle
 
-12v phi25 motor
---------
+.. figure:: ../_static/9vmotor.jpg
+   :align: center
+   :alt: 9v motor with Hall sensor
+   :figclass: align-center
+   
+   9v motor with Hall sensor 
+
+12v phi=25mm motor
+---------------
+This motor has no encoder with the following parameters.
+
+* Name: CGM-25GA-370 12V DC
+* Voltage: 12V DC
+* RPM: 320RPM
+* Current: 0.55A 
+* Diameter: 25mm
+* Height (excl. shaft): 68mm
+* Shaft length: 9.5mm
+* Shaft diameter: 4mm
+* Weight: 180g
+* Brand new and unused
+* Torque: 13kg.cm
+* max effective point: load 4.0kg.cm/235rpm/2.5W/0.58A
+* Max power: load 7kg.cm/215rpm/3.1w/0.65A
+* Stall current: 4.8A
+
+.. figure:: ../_static/12vmotor.jpg
+   :align: center
+   :alt: 12v motor no encoder
+   :figclass: align-center
+   
+   12v motor no encoder
+
+12v phi=37mm motor
+------------------
+The axis for tis motor is 6mm, wit the following parameters.
+
+.. figure:: ../_static/12vbigmotor.jpg
+   :align: center
+   :alt: 12v 37 motor
+   :figclass: align-center
+
+   12v 37 motor
 
 
-12v phi37 motor
-----------
-
-
-
-
-
- 
  
  
 Contact Us
---------
+----------
  
  * WhatsApp: +18676662425
+ * wechat: 18676662425
  * Emails: yichone@doit.am; yichoneyi@163.com
  * Skype: yichone
  * Official site: `www.doit.am <http://www.doit.am/>`_
  * official shop: `www.vvdoit.com <http://www.vvdoit.com/>`_; `www.smartarduino.com <http://www.smartarduino.com/>`_.
+ * AliExpress shop: `szdoit <https://szdoit.aliexpress.com/store/1912455?spm=2114.search0104.3.13.17f61733mEDYsu>`_.
+ * Aamzon Shop: 
