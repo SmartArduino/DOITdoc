@@ -36,9 +36,7 @@ The caterpillar TC-09 can be seen as following picturve.
     
    Caterpillar TC-09
 
-How to order
-
- Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference, just excluding the materials: one is plastic, and another is metal. But metal caterpillar looks very cool. If you want to order, please move to this links: 
+Now, we have the following two types of caterpillar: metal and plastic one. As for the assembling, they are no difference, just excluding the materials: one is plastic, and another is metal. But metal caterpillar looks very cool. If you want to order, please move to this links: 
  
  * `Plastic caterpillar TC-09 <http://vvdoit.com/original-doit-2pcspair-plastic-caterpillar-chain-track-pedrail-thread-tracker-wheel-for-tank-chassis-diy-rc-toy-remote-control-p779205.html>`_ 
  * `Metal caterpillar TC-09 <http://vvdoit.com/original-doit-caterpillar-chain-track-wheel-for-robot-model-crawler-obstacle-surmounting-with-high-torque-motors-and-hall-sensor-p834293.html>`_ 
@@ -55,7 +53,7 @@ The caterpillar TC-03 can be seen as following picture.
     
    Caterpillar TC-03
     
-The order link: `Plastic caterpillar TC-03 <http://vvdoit.com/original-doit-shock-absorption-plastic-track-for-robot-tank-car-chassis-caterpillar-crawler-conveyor-belt-diy-smart-chain-wheel-p779512.html>`_
+If you like it, the order link: `Plastic caterpillar TC-03 <http://vvdoit.com/original-doit-shock-absorption-plastic-track-for-robot-tank-car-chassis-caterpillar-crawler-conveyor-belt-diy-smart-chain-wheel-p779512.html>`_
  
 .. Note::
  
@@ -68,7 +66,7 @@ The order link: `Plastic caterpillar TC-03 <http://vvdoit.com/original-doit-shoc
 Wheels for Tank
 ---------------
 
-The wheel for tank has driving wheel and bearing wheel. And each wheel can be metal and plastic. Especially, considering the caterpillar is different, so there are different wheels for caterpillar TC-09 and TC-03.
+The wheel for tank has driving wheel and bearing wheel. And each wheel can be metal and plastic. Especially, considering the caterpillar is different, so there are different wheels for caterpillar TC-09 and TC-03. `Introduction`_
 
 Driving wheels for the caterpillar TC-09
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -76,7 +74,7 @@ Driving wheels for the caterpillar TC-09
 Metal Driving Wheel TW-09
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The parameters can be seen as the follows:
+The parameters can be seen as the follows, which is fitable for the caterpillar `Caterpillar TC-09`_. 
 
 * Name: metal driving wheel
 * Color: silver and golden yellow
@@ -85,6 +83,7 @@ The parameters can be seen as the follows:
 * Inner size for the coupling of the wheel: 4mm/5mm/6mm
 * Type: driving
 * Size: 31.85 (distance for coupling)*48.03 (diameter)*34.08 (for bearing connector) mm
+
 
 .. figure:: ../_static/drivingwheeltc09.jpg
    :align: center
@@ -199,10 +198,13 @@ Similarly, there has the plastic bearing wheel to fit the caterpillar TC-09 with
     
    Plastic bearing wheel for TC-09
   
+<<<<<<< HEAD
 Metal Driving wheel TW-03 for TC-03
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-In fact, the TW-03 is the same as the TW-09. The only difference is the size, together with the following paramters.
+=======
+Metal Driving wheel TW-03 for `Caterpillar TC-03`_.
+^^^^^^
+>>>>>>> 82b5595ee09b24a7cc04b463b5431fe422b82c43
 
 .. figure:: ../_static/tw03.jpg
    :align: center
@@ -224,7 +226,11 @@ The wheel TB-03 is smaller than TB-09 with the following paramters:
    
    Metal bearing wheel TB-03 for TC-03
    
+<<<<<<< HEAD
 The assembling method can be seen <Bearing Wheel TB-09>_. Speically, If this wheel is used with the special bracket, then it can used for the shock absorption. See the following picture.
+=======
+The assembling method can be seen `Bearing Wheel TB-09`_. Speically, If this wheel is used with the special bracket, then it can used for the shock absorption. See the following picture.
+>>>>>>> 82b5595ee09b24a7cc04b463b5431fe422b82c43
 
 .. figure:: ../_static/tb03bracket.jpg
    :align: center
