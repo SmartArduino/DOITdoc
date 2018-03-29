@@ -66,7 +66,7 @@ If you like it, the order link: `Plastic caterpillar TC-03 <http://vvdoit.com/or
 Wheels for Tank
 ---------------
 
-The wheel for tank has driving wheel and bearing wheel. And each wheel can be metal and plastic. Especially, considering the caterpillar is different, so there are different wheels for caterpillar TC-09 and TC-03. `Introduction`_
+The wheel for tank has driving wheel and bearing wheel. And each wheel can be metal and plastic. Especially, considering the caterpillar is different, so there are different wheels for caterpillar TC-09 and TC-03.
 
 Driving wheels for the caterpillar TC-09
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
