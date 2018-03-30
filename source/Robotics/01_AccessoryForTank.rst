@@ -301,7 +301,7 @@ experiments, we don't use the Hall sensor. The parameters can be seen at the fol
    9v motor with Hall sensor 
 
 12v phi=25mm motor
----------------
+------------------
 This motor has no encoder with the following parameters.
 
 * Name: CGM-25GA-370 12V DC
