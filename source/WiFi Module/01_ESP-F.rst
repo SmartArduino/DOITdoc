@@ -16,7 +16,11 @@ Introduction
     ESP-F Module Structure
   
   The ESP-F module supports the standard IEEE802.11 b/g/n/e/i protocol and the complete TCP/IP protocol stack. User can use it to add the  WiFi function for the installed devices, and also can be viewed as a independent network controller.  Anyway, ESP-F module provides many probabilities with the best price.
-  
+
+How to Order
+-------------
+Please click this link: `ESP-F <http://vvdoit.com/s-esp-f>`_;
+
 Features
 -------
 
