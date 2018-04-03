@@ -1,4 +1,4 @@
-.. 请确保至少包含基本的 `toctree` 指令.
+﻿.. 请确保至少包含基本的 `toctree` 指令.
 
 .. _contents:
 
@@ -12,3 +12,4 @@
    google-objc-styleguide/contents
    google-python-styleguide/contents
    google-shell-styleguide/contents
+   google-html-css-styleguide
